@@ -5,21 +5,10 @@
 
 ## Contents
 
-1. [Setup](#Setup)
-2. [About](#About)
-3. [Unit Test cases](#Unit-Test-cases)
-4. [Test Coverage](#Test-Coverage)
-5. [Limitations](#Limitations)
-
-## Setup
-
-```
----
-
-go get 
-
----
-```markdown
+1. [About](#About)
+2. [Unit Test cases](#Unit-Test-cases)
+3. [Test Coverage](#Test-Coverage)
+4. [Limitations](#Limitations)
 
 
 ## About 
@@ -28,13 +17,7 @@ Takes the input as credit card number and it validates the cc number and also gi
 
 ## Unit Test cases
 
-To run unit test cases, run the following command
-
-```
----
-$ make test
----
-```
+To run unit test cases, run `make test`
 
 ## Test Coverage
 
