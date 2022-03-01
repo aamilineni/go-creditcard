@@ -1,6 +1,5 @@
 
----
-```go
+
 # go-creditcard
 
 ## Contents
@@ -28,7 +27,3 @@ code coverage: 86.3% of statements
 ## Limitations
 
 1. Add the benchmark test cases to test the performance of the code.
-
-
-```
----
